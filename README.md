@@ -2,22 +2,45 @@
 
 I.m MultiMedia/Graphics Engineer also TechnicalArtist and EngineerManager.
 like low level architecture and rapid iteration workflow also like native graphics software.
+also game engine researcher.
 
-### Technical
+### Skills
 
-#### Graphics
+- Platform
+  - Native(Windows/MacOS/Linux/iOS/Andorid/Web/PS4/Switch/Wii)
+  - Unity
+  - UE4
+  - other (ReactNative)
 
-DirectX9, 11, 12, (DXR)
-Vulkan ~1.1
-OpenGL 1.0, 3.2~4.6
-OpenGLES 2~3.1
-Metal
-WebGL ~2.0
-WebGPU (watching now...)
+- Graphics
+  - DirectX9, 11, 12, (DXR)
+  - Vulkan ~1.1
+  - OpenGL 1.0, 3.2~4.6
+  - OpenGLES 2~3.1
+  - Metal
+  - WebGL ~2.0
+  - WebGPU (watching now...)
+  - Other (MoltenVK,)
 
-#### Multimedia
+### Other
 
+My LunguageTier
 
+- tier1
+c/c++, rust, go, c#, javascript/typescript, python
+
+-tier2
+objc lua haxe
+
+- tier3
+swift java kotlin
+
+- tier4
+ruby
+
+### Contact
+
+tkaria.info@gmail.com
 
 <!--
 **TK-Aria/TK-Aria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
