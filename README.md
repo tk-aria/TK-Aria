@@ -21,13 +21,23 @@ also game engine researcher.
   - WebGL ~2.0
   - WebGPU (watching now...)
   - Other (MoltenVK,)
+  
+- MultiMedia
+  - lowlevel Audio API
+  - codec
+  - streaming
+
+- Other(MyHobby)
+  - DCC Plugin (Maya, Photoshop, Blender)
+  - DAW Plugin (VST2,3, UnityNativeAudioPlugin)
+  - Research Various GameEngine.
 
 ### Other
 
 My LunguageTier
 
 - tier1
-c/c++, rust, go, c#, javascript/typescript, python
+c/c++, rust, c#, javascript/typescript, python, go
 
 -tier2
 objc lua haxe
